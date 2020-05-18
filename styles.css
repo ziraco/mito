@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+}
+
+body {
+  background-color: #f7dd27;
+  height: 100%;
+}
+
+.pdf {
+  width: 90%;
+  top: 100px;
+  height: 500px;
+}
